@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eferogene
 - 👀 I’m interested in Data Analysis
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me: email eferogene@gmail.com
+- 📫 How to reach me: eferogene@gmail.com
 - 😄 Pronouns: i'm/him
 - ⚡ Fun fact: i can code with my feet
 
