@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eferogene
-- 👀 I’m interested in Data Analysis
+- 👀 I am a Data Analyst
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: eferogene@gmail.com
 - 😄 Pronouns: i'm/him
